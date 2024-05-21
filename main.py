@@ -1,4 +1,11 @@
-# Testing
+from tkinter import *
+import pygame
+import os
 
 
-print("Hello world")
+root = Tk()
+root.title("Music Player")
+root.geometry("500x600")
+
+
+root.mainloop()
