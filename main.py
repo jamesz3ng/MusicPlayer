@@ -7,5 +7,10 @@ root = Tk()
 root.title("Music Player")
 root.geometry("500x600")
 
+pygame.mixer.init()
+
+songlist = Listbox(root, bg = "black", fg = "white", width = 100, height = 15)
+songlist.pack()
 
 root.mainloop()
+
