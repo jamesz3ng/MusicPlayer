@@ -1,0 +1,1102 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"image",
+				"imageAssets"
+			],
+			[
+				"contro",
+				"controlFrame"
+			],
+			[
+				"control",
+				"controlButtons"
+			],
+			[
+				"bo",
+				"borderwidth="
+			],
+			[
+				"nu",
+				"numTwo"
+			],
+			[
+				"num",
+				"numTwo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 914,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "create"
+					},
+					"BwAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABnAAAAAAAAAAsAAABjcmVhdGVfbWVudWcAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABpAAAAAAAAAAAAAABpAAAAAAAAAGoAAAAAAAAAAAAAAGoAAAAAAAAAawAAAAAAAAAAAAAAawAAAAAAAABsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"LSP-pyright\"}",
+						"format": "command",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "create_controls"
+					},
+					"AgAAAGYAAAAAAAAAZgAAAAAAAAAGAAAAY3JlYXRlZgAAAAAAAAB1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "crea"
+					},
+					"BAAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVQEAAAAAAABWAQAAAAAAAAAAAABWAQAAAAAAAFcBAAAAAAAAAAAAAFcBAAAAAAAAWAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"LSP-pyright\"}",
+						"format": "command",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "create_controls"
+					},
+					"AgAAAFQBAAAAAAAAVAEAAAAAAAAEAAAAY3JlYVQBAAAAAAAAYwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAEAAAAAAABYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAGMBAAAAAAAAZQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYwEAAAAAAABjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "root"
+					},
+					"BAAAAGQBAAAAAAAAZQEAAAAAAAAAAAAAZQEAAAAAAABmAQAAAAAAAAAAAABmAQAAAAAAAGcBAAAAAAAAAAAAAGcBAAAAAAAAaAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAEAAAAAAABkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAFMBAAAAAAAAVAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUwEAAAAAAABTAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"paste",
+					null,
+					"AQAAAFQBAAAAAAAAtwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAMwBAAAAAAAAzQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAEAAAAAAADMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " u"
+					},
+					"AgAAAM0BAAAAAAAAzgEAAAAAAAAAAAAAzgEAAAAAAADPAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQEAAAAAAADNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM4BAAAAAAAAzgEAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAzwEAAAAAAADPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "image"
+					},
+					"BQAAAM4BAAAAAAAAzwEAAAAAAAAAAAAAzwEAAAAAAADQAQAAAAAAAAAAAADQAQAAAAAAANEBAAAAAAAAAAAAANEBAAAAAAAA0gEAAAAAAAAAAAAA0gEAAAAAAADTAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzgEAAAAAAADOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":3,\"session_name\":\"LSP-pyright\"}",
+						"format": "command",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "imageAssets"
+					},
+					"AgAAAM4BAAAAAAAAzgEAAAAAAAAFAAAAaW1hZ2XOAQAAAAAAANkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wEAAAAAAADTAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					3,
+					"left_delete",
+					null,
+					"AwAAAM4BAAAAAAAAzgEAAAAAAAALAAAAaW1hZ2VBc3NldHPNAQAAAAAAAM0BAAAAAAAAAQAAACDMAQAAAAAAAMwBAAAAAAAAAQAAACw",
+					"AQAAAAAAAAABAAAAzgEAAAAAAADZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAMwBAAAAAAAAzQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAEAAAAAAADMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": " image"
+					},
+					"BgAAAM0BAAAAAAAAzgEAAAAAAAAAAAAAzgEAAAAAAADPAQAAAAAAAAAAAADPAQAAAAAAANABAAAAAAAAAAAAANABAAAAAAAA0QEAAAAAAAAAAAAA0QEAAAAAAADSAQAAAAAAAAAAAADSAQAAAAAAANMBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQEAAAAAAADNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"LSP-pyright\"}",
+						"format": "command",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "imageAssets"
+					},
+					"AgAAAM4BAAAAAAAAzgEAAAAAAAAFAAAAaW1hZ2XOAQAAAAAAANkBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wEAAAAAAADTAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					2,
+					"paste",
+					null,
+					"AgAAAPEAAAAAAAAA8gAAAAAAAAAAAAAA8gAAAAAAAADzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					2,
+					"cut",
+					null,
+					"AgAAAPMAAAAAAAAA8wAAAAAAAAABAAAACvMAAAAAAAAA8wAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"paste",
+					null,
+					"AQAAAPEAAAAAAAAAKwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPIAAAAAAAAA8gAAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAA9gAAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"left_delete",
+					null,
+					"AQAAABABAAAAAAAAEAEAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAFAEAAAAAAAAUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAACMBAAAAAAAAJQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					134,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAACMBAAAAAAAAIwEAAAAAAAABAAAAJyMBAAAAAAAAIwEAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": "contro"
+					},
+					"BwAAAAICAAAAAAAAAwIAAAAAAAAAAAAAAwIAAAAAAAADAgAAAAAAAAsAAABpbWFnZUFzc2V0cwMCAAAAAAAABAIAAAAAAAAAAAAABAIAAAAAAAAFAgAAAAAAAAAAAAAFAgAAAAAAAAYCAAAAAAAAAAAAAAYCAAAAAAAABwIAAAAAAAAAAAAABwIAAAAAAAAIAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgIAAAAAAAANAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					144,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":7,\"session_name\":\"LSP-pyright\"}",
+						"format": "command",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "controlFrame"
+					},
+					"AgAAAAICAAAAAAAAAgIAAAAAAAAGAAAAY29udHJvAgIAAAAAAAAOAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAIAAAAAAAAIAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					145,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAA4CAAAAAAAADwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgIAAAAAAAAOAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAA8CAAAAAAAAEAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					1,
+					"insert",
+					{
+						"characters": "image"
+					},
+					"BQAAABACAAAAAAAAEQIAAAAAAAAAAAAAEQIAAAAAAAASAgAAAAAAAAAAAAASAgAAAAAAABMCAAAAAAAAAAAAABMCAAAAAAAAFAIAAAAAAAAAAAAAFAIAAAAAAAAVAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":1,\"session_name\":\"LSP-pyright\"}",
+						"format": "command",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "imageAssets"
+					},
+					"AgAAABACAAAAAAAAEAIAAAAAAAAFAAAAaW1hZ2UQAgAAAAAAABsCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQIAAAAAAAAVAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					180,
+					1,
+					"paste",
+					null,
+					"AQAAACMBAAAAAAAAJAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"left_delete",
+					null,
+					"AQAAACMBAAAAAAAAIwEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAJAEAAAAAAAAkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					222,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAAKwMAAAAAAAAAAAAAKwMAAAAAAAArAwAAAAAAAIUCAABpbXBvcnQgdGtpbnRlciBhcyB0awpmcm9tIFBJTCBpbXBvcnQgSW1hZ2UsIEltYWdlVGsKZnJvbSBtZW51IGltcG9ydCBjcmVhdGVfbWVudQpmcm9tIGNvbnRyb2xzIGltcG9ydCBjcmVhdGVfY29udHJvbHMKaW1wb3J0IHB5Z2FtZQoKcm9vdCA9IHRrLlRrKCkKcm9vdC50aXRsZSgiTXVzaWMgUGxheWVyIikKcm9vdC5nZW9tZXRyeSgiMzgweDM1MCIpCgpweWdhbWUubWl4ZXIuaW5pdCgpCgpjcmVhdGVfbWVudShyb290KQoKCmNvbnRyb2xGcmFtZSA9IHRrLkZyYW1lKHJvb3QpCmNvbnRyb2xGcmFtZS5wYWNrKCkKCnNvbmdsaXN0ID0gdGsuTGlzdGJveChyb290LCBiZyA9ICJibGFjayIsIGZnID0gIndoaXRlIiwgd2lkdGggPSAxMDAsIGhlaWdodCA9IDE1KQpzb25nbGlzdC5wYWNrKCkKCmltYWdlQXNzZXRzID0gWyJiYWNrd2FyZF9idXR0b24ucG5nIiwgInBsYXlfYnV0dG9uLnBuZyIsICJwYXVzZV9idXR0b24ucG5nIiwgImZvcndhcmRfYnV0dG9uLnBuZyJdCgpjcmVhdGVfY29udHJvbHMocm9vdCwgY29udHJvbEZyYW1lLCBpbWFnZUFzc2V0cykKCiMgcGxheUJ1dHRvbkxhYmVsID0gdGsuTGFiZWwocm9vdCwgaW1hZ2UgPSBwbGF5QnV0dG9uSW1hZ2UpCiMgcGxheUJ1dHRvbkxhYmVsLnBhY2soKQoKcm9vdC5tYWlubG9vcCgpCgo",
+					"AQAAAAAAAAABAAAAAAAAAAAAAACFAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					244,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					260,
+					1,
+					"cut",
+					null,
+					"AQAAAIUAAAAAAAAAhQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"insert",
+					{
+						"characters": "\nprint"
+					},
+					"BgAAAMsCAAAAAAAAzAIAAAAAAAAAAAAAzAIAAAAAAADNAgAAAAAAAAAAAADNAgAAAAAAAM4CAAAAAAAAAAAAAM4CAAAAAAAAzwIAAAAAAAAAAAAAzwIAAAAAAADQAgAAAAAAAAAAAADQAgAAAAAAANECAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywIAAAAAAADLAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					273,
+					1,
+					"cut",
+					null,
+					"AQAAAMwCAAAAAAAAzAIAAAAAAAAGAAAAcHJpbnQK",
+					"AQAAAAAAAAABAAAA0QIAAAAAAADRAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					289,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAsAwAAaW1wb3J0IHRraW50ZXIgYXMgdGsKZnJvbSBQSUwgaW1wb3J0IEltYWdlLCBJbWFnZVRrCmZyb20gbWVudSBpbXBvcnQgY3JlYXRlX21lbnUKZnJvbSBjb250cm9scyBpbXBvcnQgY3JlYXRlX2NvbnRyb2xzCmltcG9ydCBweWdhbWUKCgojIEluaXRpYWxpemUgdGhlIG1haW4gd2luZG93CnJvb3QgPSB0ay5UaygpCnJvb3QudGl0bGUoIk11c2ljIFBsYXllciIpCnJvb3QuZ2VvbWV0cnkoIjM4MHgzNTAiKQoKIyBJbml0aWFsaXplIHRoZSBQeWdhbWUgbWl4ZXIKcHlnYW1lLm1peGVyLmluaXQoKQoKIyBDcmVhdGUgdGhlIG1lbnUKY3JlYXRlX21lbnUocm9vdCkKCiMgQ3JlYXRlIHRoZSBzb25nIGxpc3QKc29uZ2xpc3QgPSB0ay5MaXN0Ym94KHJvb3QsIGJnPSJibGFjayIsIGZnPSJ3aGl0ZSIsIHdpZHRoPTEwMCwgaGVpZ2h0PTE1KQpzb25nbGlzdC5wYWNrKGZpbGw9dGsuQk9USCwgZXhwYW5kPVRydWUpCgojIERlZmluZSB0aGUgY29udHJvbCBmcmFtZQpjb250cm9sRnJhbWUgPSB0ay5GcmFtZShyb290KQpjb250cm9sRnJhbWUucGFjayhzaWRlPXRrLkJPVFRPTSwgZmlsbD10ay5YKQoKIyBEZWZpbmUgdGhlIGltYWdlIGFzc2V0cwppbWFnZUFzc2V0cyA9IFsiYmFja3dhcmRfYnV0dG9uLnBuZyIsICJwbGF5X2J1dHRvbi5wbmciLCAicGF1c2VfYnV0dG9uLnBuZyIsICJmb3J3YXJkX2J1dHRvbi5wbmciXQoKIyBDcmVhdGUgdGhlIGNvbnRyb2wgYnV0dG9ucwpjcmVhdGVfY29udHJvbHMocm9vdCwgY29udHJvbEZyYW1lLCBpbWFnZUFzc2V0cykKCiMgU3RhcnQgdGhlIFRraW50ZXIgbWFpbiBsb29wCnJvb3QubWFpbmxvb3AoKQoAAAAAAAAAAJMDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzAIAAAAAAADMAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					300,
+					1,
+					"cut",
+					null,
+					"AQAAAIADAAAAAAAAgAMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAgAMAAAAAAACAAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "controls.py",
+			"settings":
+			{
+				"buffer_size": 614,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++_14.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++_14.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++_14.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++_14_Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++_14_Terminal.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++_14_Terminal.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++_Warning.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++_Warning.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++_Warning.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ana",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"terminal",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"packagesoruce",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packagesourcerv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			],
+			[
+				"termin",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"temrtina",
+				"Terminus: Open Default Shell in Panel"
+			],
+			[
+				"terminus",
+				"Terminus: Close"
+			],
+			[
+				"termnius",
+				"Terminus: Toggle Panel"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jameszeng/Documents/Projects/MusicPlayer"
+	],
+	"file_history":
+	[
+		"/Users/jameszeng/Documents/Projects/MusicPlayer/menu.py",
+		"/Users/jameszeng/Documents/Projects/MusicPlayer/controls.py",
+		"/Users/jameszeng/Documents/Projects/MusicPlayer/main.py",
+		"/Users/jameszeng/Documents/Projects/MusicPlayer/MusicPlayer.sublime-project",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/User/Anaconda.sublime-settings",
+		"/Users/jameszeng/Desktop/Pictures/icons8-play-90.png",
+		"/Users/jameszeng/Desktop/Pictures/icons8-pause-90.png",
+		"/Users/jameszeng/Desktop/Pictures/icons8-go-back-90.png",
+		"/Users/jameszeng/Desktop/Pictures/icons8-forward-button-90.png",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/ContainerWithMostWater.py",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/Stacks",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/ThreeSum.py",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/ProductOfArrayExceptSelf.py",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/ProductOfArrayExceptSelf",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/ProductArrayExceptSelf.py",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/User/ContainerWithMostWater",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 2/add.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 2/function_intro.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 2/main.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 2/test1.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 2/test1.",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 1/question3.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 1/double.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 1/implementation.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 1/1_5_quiz.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 1/uninitialised.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/Chapter 1/\\n.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/variable_assignment.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/cout.cpp",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/User/C++_14.sublime-build",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/User/C++_14_Terminal.sublime-build",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/C++/C++ Single File.sublime-build",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/User/c++_build_trest",
+		"/Users/jameszeng/Desktop/Code/C++/cout",
+		"/Users/jameszeng/Desktop/Code/C++/standard_library.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/initialisation.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/something.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/test.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/test_compiler_version.cpp",
+		"/Users/jameszeng/Desktop/Code/C++/untitled.sublime-build",
+		"/Users/jameszeng/Library/Application Support/Sublime Text/Packages/User/C++_Warning",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/hash_tables.py",
+		"/Users/jameszeng/Desktop/Code/Data Structures and Algorithms/test.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"python"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 914,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								294,
+								294
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[\"'",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										300,
+										301
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										280,
+										281
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/jameszeng/Documents/Projects/MusicPlayer/main.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "controls.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 614,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".[\"'",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "LSP-pyright"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///Users/jameszeng/Documents/Projects/MusicPlayer/controls.py",
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 303.0
+	},
+	"output.Terminus Build Results":
+	{
+		"height": 288.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 214.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 138.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MusicPlayer.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"hash_tables.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
